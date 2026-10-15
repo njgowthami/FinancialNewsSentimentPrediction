@@ -1,0 +1,27 @@
+{
+  "train": {
+    "rows": 9543,
+    "class_counts": {
+      "0": 1442,
+      "1": 1923,
+      "2": 6178
+    },
+    "missing_text": 0,
+    "duplicate_text": 0,
+    "avg_words": 12.18,
+    "max_words": 32
+  },
+  "validation": {
+    "rows": 2388,
+    "class_counts": {
+      "0": 347,
+      "1": 475,
+      "2": 1566
+    },
+    "missing_text": 0,
+    "duplicate_text": 0,
+    "avg_words": 12.32,
+    "max_words": 33
+  },
+  "overlap_texts": 0
+}
